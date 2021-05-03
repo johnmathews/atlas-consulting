@@ -1,5 +1,6 @@
 .DS_Store
 tags
+Session.vim
 
 dist/
 node_modules/
